@@ -11,7 +11,7 @@ This is a simple unit converter web application. User can give a number and get 
 
 ## Demo
 
-CLICK HERE 
+[CLICK HERE](https://unit-converter-by-joelstan.netlify.app/) 
 
 
 
@@ -22,7 +22,7 @@ CLICK HERE
 To deploy this project run
 
 ```bash
-  npm run build
+  npm run dev
 ```
 
 
